@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background: #333;
+	margin: 0;
+	font-family: helvetica; sans-serif;
+	line-height: 1.4em;
+}
+h1, h2, h3 {
+	margin: 0;
+	padding: 5px 15px;
+}
+h1 {
+	background: #600;
+	padding: 20px 15px;
+	color: #fff;
+	text-shadow: 1px 1px 2px #424242
+}
+h2 {
+	color: #600;
+	padding: 15px 15px 5px 15px;
+}
+h3 {
+	color: #333;
+}
+.container {
+	background: #fff;
+	width: 600px;
+	margin: 0 auto;
+	box-shadow: 1px 1px 10px #000; 
+}
+p {
+	margin: 0px;
+	padding: 0px 15px 0px 15px;
+}
+li {
+	list-style: none;
+}
+img {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	pagging-bottom: 5px;
+	padding-top: 5px;
+}
